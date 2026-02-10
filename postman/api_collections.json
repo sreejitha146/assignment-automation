@@ -1,0 +1,11 @@
+{
+ "info": {
+   "name": "Assignment API Collection"
+ },
+ "item": [
+   { "name": "GET Object", "request": { "method": "GET", "url": "https://api.restful-api.dev/objects/5" }},
+   { "name": "POST Object", "request": { "method": "POST", "url": "https://api.restful-api.dev/objects" }},
+   { "name": "PUT Object", "request": { "method": "PUT", "url": "https://api.restful-api.dev/objects/5" }},
+   { "name": "DELETE Object", "request": { "method": "DELETE", "url": "https://api.restful-api.dev/objects/7" }}
+ ]
+}
